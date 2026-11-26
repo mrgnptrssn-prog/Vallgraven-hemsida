@@ -11,3 +11,7 @@
 - Bildkälla: [David Castor, Kungsportsbron maj 2011, CC0 1.0](https://commons.wikimedia.org/wiki/File:Kungsportsbron_maj_2011.jpg).
 
 Inför publicering behöver Vallgraven bekräfta att mejladressen tar emot förfrågningar, att besöksuppgifterna är aktuella och att integritetstexten stämmer med bolagets och webbdriftens faktiska personuppgiftshantering. Bekräfta även vilka företagsuppdrag och paket som ska visas från första dagen.
+
+## Bild och besök
+
+Kungsbron är startsidans huvudbild. Statyn av Gustav II Adolf ligger i avsnittet om namnets Göteborgsanknytning. [Statyfotot av Gegik är CC0 1.0](https://commons.wikimedia.org/wiki/File:Gustav_II_Adolf_G%C3%B6teborg.jpg). Kontaktsidan visar mejladressen och länkar till Hitta hit. Besökssidan länkar vidare till Apple Kartor och Google Maps.

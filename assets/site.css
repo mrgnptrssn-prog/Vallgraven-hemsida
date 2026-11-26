@@ -74,3 +74,17 @@ summary { min-height: 2.75rem; padding-block: .5rem; font-weight: 700; cursor: p
   .grid { grid-template-columns: 1fr; }
   figure img { height: auto; }
 }
+
+.story-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 16rem);
+  gap: clamp(1.5rem, 5vw, 5rem);
+  align-items: center;
+}
+.story-layout figure { margin: 0; }
+.story-layout img { height: auto; }
+.contact-address { margin-top: 1rem; overflow-wrap: anywhere; }
+@media (max-width: 44rem) {
+  .story-layout { grid-template-columns: 1fr; }
+  .story-layout figure { max-width: 15rem; }
+}
