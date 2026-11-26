@@ -55,7 +55,7 @@ summary { min-height: 2.75rem; padding-block: .5rem; font-weight: 700; cursor: p
 .subpage { padding-block: 3.4rem 4.5rem; min-height: 59vh; }
 .subpage h1 { font-size: clamp(2.4rem, 6vw, 4.2rem); overflow-wrap: anywhere; }
 .subpage h2 { font-size: clamp(1.45rem, 3.5vw, 2.2rem); margin-top: 1.4em; }
-.back { display: inline-block; margin-bottom: 1.8rem; }
+.back { margin-bottom: 1.8rem; }
 .site-footer { background: var(--green); color: white; padding-block: 2.4rem; }
 .footer-inner { display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: space-between; gap: 1.2rem; }
 .footer-links { display: flex; flex-wrap: wrap; gap: .5rem 1.3rem; }

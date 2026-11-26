@@ -14,4 +14,4 @@ Inför publicering behöver Vallgraven bekräfta att mejladressen tar emot förf
 
 ## Bild och besök
 
-Kungsbron är startsidans huvudbild. Statyn av Gustav II Adolf ligger i avsnittet om namnets Göteborgsanknytning. [Statyfotot av Gegik är CC0 1.0](https://commons.wikimedia.org/wiki/File:Gustav_II_Adolf_G%C3%B6teborg.jpg). Kontaktsidan visar mejladressen och länkar till Hitta hit. Besökssidan länkar vidare till Apple Kartor och Google Maps.
+Kungsbron är startsidans huvudbild. Statyn av Gustav II Adolf ligger i avsnittet om namnets Göteborgsanknytning. [Statyfotot av Gegik är CC0 1.0](https://commons.wikimedia.org/wiki/File:Gustav_II_Adolf_G%C3%B6teborg.jpg). Kontaktsidan visar mejladressen och länkar till Hitta hit. Besökssidan länkar till Järntorgsbrunnen i Google Maps och anger Rosenlund 2 som parkeringsalternativ. Varje undersida har en synlig knapp tillbaka till startsidan.
