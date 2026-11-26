@@ -89,3 +89,5 @@ summary { min-height: 2.75rem; padding-block: .5rem; font-weight: 700; cursor: p
   .story-layout { grid-template-columns: 1fr; }
   .story-layout figure { max-width: 15rem; }
 }
+
+#tjanster > .wrap > div + div { margin-top: 2.5rem; }
